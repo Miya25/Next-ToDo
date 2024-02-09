@@ -10,7 +10,7 @@
     "format": "prettier -w ./**/**/*.{ts,tsx,js,jsx}"
   },
   "dependencies": {
-    "@prisma/client": "^5.5.2",
+    "@prisma/client": "^5.8.1",
     "clsx": "^2.0.0",
     "next": "14.0.2",
     "prettier": "^3.1.0",
